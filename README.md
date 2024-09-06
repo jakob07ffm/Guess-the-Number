@@ -9,3 +9,4 @@
 - Generates a random number between 1 and 100.
 - Provides feedback if the guess is too high or too low.
 - Displays the number of attempts made to guess the number.
+![](num_screenshot.JPG)
